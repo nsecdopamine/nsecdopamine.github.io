@@ -1,4 +1,5 @@
 site_name: nsecdopamine
+site_url: https://nsecdopamine.github.io
 theme:
   name: terminal
   features:
