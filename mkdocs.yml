@@ -1,0 +1,8 @@
+site_name: nsecdopamine
+theme:
+  name: terminal
+  features:
+    - navigation.top.hide
+nav:
+  - inicio: index.md
+  - deltamesh: deltamesh.md
