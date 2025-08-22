@@ -1,0 +1,9 @@
+site_name: nsecdopamine
+site_url: https://nsecdopamine.github.io
+theme:
+  name: terminal
+  features:
+    - navigation.top.hide
+nav:
+  - inicio: index.md
+  - deltamesh: deltamesh.md
