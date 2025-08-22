@@ -7,3 +7,4 @@ theme:
 nav:
   - inicio: index.md
   - deltamesh: deltamesh.md
+  - otros: projects.md
