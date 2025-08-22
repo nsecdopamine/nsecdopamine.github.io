@@ -10,4 +10,3 @@ aportando un granito de arena para construir un mundo mas descentralizado.
 * [pgp key](pgp.md)
 * [github](https://github.com/nsecdopamine)
 * [nostr](https://njump.me/nsecdopamine@nostrcheck.me)
-
